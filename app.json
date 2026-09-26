@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "Loop Habits 2",
+    "slug": "loop-habits-2",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#FBF7F2"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.loophabits2.app"
+    },
+    "android": {
+      "package": "com.loophabits2.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#FBF7F2"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
